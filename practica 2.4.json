@@ -1,0 +1,55 @@
+{
+    "cartellera": [
+        {
+            "pelicula1": {
+                "titulo": "Inception",
+                "idioma": "ingles",
+                "director": "Christopher Nolan",
+                "durada": 148,
+                "reparto": {
+                    "actores": [
+                        {
+                            "nom": "Leonardo DiCaprio",
+                            "protagonista": true,
+                            "personaje": "Dom Cobb"
+                        },
+                        {
+                            "nom": "Joseph Gordon-Levitt",
+                            "protagonista": false,
+                            "personaje": "Arthur"
+                        }
+                    ]
+                },
+                "premis": [
+                    "Oscar als millors efectes visuals",
+                    "Oscar al millor so"
+                ],
+                "foto": "foto"
+            },
+            "pelicula2": {
+                "titulo": "La dolce vita",
+                "idioma": "italia",
+                "director": "Federico Fellini",
+                "durada": 174,
+                "reparto": {
+                    "actores": [
+                        {
+                            "nom": "Marcello Mastroianni",
+                            "protagonista": true,
+                            "personaje": "Marcello Rubini"
+                        },
+                        {
+                            "nom": "Anita Ekberg",
+                            "protagonista": false,
+                            "personaje": "Silvia"
+                        }
+                    ]
+                },
+                "premis": [
+                    "Palma d'Or al Festival de Cannes"
+                ],
+                "foto": "foto"
+            }
+        }
+    ]
+}
