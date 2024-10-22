@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<series>
+    <serie1>
+        <titulo>Breaking Bad</titulo>
+        <temporadas>5</temporadas>
+        <esta_completa>true</esta_completa>
+        <generos>
+            <genero>Crimen</genero>
+            <genero>Drama</genero>
+            <genero>Thriller</genero>
+        </generos>
+        <casting>
+            <actor1>
+                <nombre>Bryan Cranston</nombre>
+                <role>Walter White</role>
+            </actor1>
+            <actor2>
+                <nombre>Aaron Paul</nombre>
+                <role>Jesse Pinkman</role>
+            </actor2>
+        </casting>
+    </serie1>
+    <serie2>
+        <titulo>Stranger Things</titulo>
+        <temporadas>4</temporadas>
+        <esta_completa>false</esta_completa>
+        <generos>
+            <genero>Science Fiction</genero>
+            <genero>Drama</genero>
+            <genero>Horror</genero>
+        </generos>
+        <casting>
+            <actor1>
+                <nombre>Millie Bobby Brown</nombre>
+                <role>Eleven</role>
+            </actor1>
+            <actor2>
+                <nombre>Finn Wolfhard</nombre>
+                <role>Mike Wheeler</role>
+            </actor2>
+        </casting>
+        <ratings>
+            <imdb>8.7</imdb>
+            <rotten_tomatoes>93</rotten_tomatoes>
+        </ratings>
+    </serie2>
+</series>
